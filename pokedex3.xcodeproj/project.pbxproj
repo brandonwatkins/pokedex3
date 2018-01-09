@@ -20,6 +20,7 @@
 		C07A5CEC200527CA00C26EB7 /* music.png in Resources */ = {isa = PBXBuildFile; fileRef = C07A5CEA200527CA00C26EB7 /* music.png */; };
 		C07A5CEF200527EC00C26EB7 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = C07A5CEE200527EC00C26EB7 /* back.png */; };
 		C07A5CF12005287B00C26EB7 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C07A5CF02005287A00C26EB7 /* music.mp3 */; };
+		C07A5CF3200545FB00C26EB7 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07A5CF2200545FB00C26EB7 /* PokemonDetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		C07A5CEA200527CA00C26EB7 /* music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music.png; sourceTree = "<group>"; };
 		C07A5CEE200527EC00C26EB7 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = "../../../../Udemy Videos/iOS 10 & Swift 3 - From Beginner to Paid Professional/Section 5/Pokedex/pokemon-assets/back.png"; sourceTree = "<group>"; };
 		C07A5CF02005287A00C26EB7 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		C07A5CF2200545FB00C26EB7 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				C07A5CC92003D4C800C26EB7 /* ViewController.swift */,
+				C07A5CF2200545FB00C26EB7 /* PokemonDetailVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				C07A5CCA2003D4C800C26EB7 /* ViewController.swift in Sources */,
 				C07A5CC82003D4C800C26EB7 /* AppDelegate.swift in Sources */,
 				C07A5CE22003E12A00C26EB7 /* PokeCell.swift in Sources */,
+				C07A5CF3200545FB00C26EB7 /* PokemonDetailVC.swift in Sources */,
 				C07A5CDD2003D8CB00C26EB7 /* Pokemon.swift in Sources */,
 				C07A5CE42003E4DC00C26EB7 /* csv.swift in Sources */,
 			);
