@@ -22,9 +22,9 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        collection.dataSource = self
-        collection.delegate = self
-        searchBar.delegate = self
+        collection.dataSource   = self
+        collection.delegate     = self
+        searchBar.delegate      = self
         
         searchBar.returnKeyType = UIReturnKeyType.done
         
